@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>RecipeBook</title>
+    <meta charset="UTF-8"/>
+    <link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" href="/css/style.css">
+  </head>
+  <body>
+  <div class="container">
+    <div class="row">
+        <div class="col-md-offset-2 col-md-7">
+
+
+    {+body /}
+
+        </div>
+    </div>
+   </div>
+    <script src="http://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="crossorigin="anonymous"></script>
+    <script src="/js/bootstrap.js"></script>
+    <script src="/js/main.js"></script>
+  </body>
+</html>

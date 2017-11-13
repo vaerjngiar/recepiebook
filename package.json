@@ -1,0 +1,25 @@
+{
+  "name": "recipebook",
+  "version": "1.0.0",
+  "description": "recipe manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "olegerius",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "consolidate": "*",
+    "dust": "*",
+    "dustjs-helpers": "*",
+    "dustjs-linkedin": "*",
+    "express": "*",
+    "express-dustjs": "^1.1.1",
+    "pg": "*",
+    "pg-pool": "^2.0.3"
+  }
+}
